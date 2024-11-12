@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/9675.jpg)
+![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20240102/pngtree-asian-style-black-texture-banner-brush-stroke-object-with-japanese-wave-image_13901042.png)
 <h1 align="center">Hi, I'm Radoslav</h1>
 <h3 align="center">I'm working on improving myself every day</h3>
 
