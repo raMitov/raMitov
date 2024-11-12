@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/9675.jpg)]
+![MasterHead](https://wallpaperaccess.com/full/9675.jpg)
 <h1 align="center">Hi, I'm Radoslav</h1>
 <h3 align="center">I'm working on improving myself every day</h3>
 
