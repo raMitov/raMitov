@@ -1,10 +1,4 @@
-<img align="left" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKB1qh-UThrIS1iDvLjShObQIOk0eayM17-6-fi1KGKtnqfBQtxalLUnzlIVvoCmCOwKErBtRHOU9JoJz2sDsO1_0c5PAEGEqlkoG4q7P6g5rLvy9WrjHQxVGjEzdcz-gCVNVCI9SXPwzVYOYB9CY-0dwK1787_i-NSgXh6sFMIHmcui_FaTrPe3AfLw/s1600-rw/the_neon_shallows_by_leikoi.webp"  />
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+<img align="left" height="500" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKB1qh-UThrIS1iDvLjShObQIOk0eayM17-6-fi1KGKtnqfBQtxalLUnzlIVvoCmCOwKErBtRHOU9JoJz2sDsO1_0c5PAEGEqlkoG4q7P6g5rLvy9WrjHQxVGjEzdcz-gCVNVCI9SXPwzVYOYB9CY-0dwK1787_i-NSgXh6sFMIHmcui_FaTrPe3AfLw/s1600-rw/the_neon_shallows_by_leikoi.webp"  />
 
 ###
 
