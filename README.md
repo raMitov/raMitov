@@ -5,8 +5,8 @@
 An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it.
 
 ## Skills & Technologies
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,mysql,postgres,arch,linux,cmake,arduino,raspberrypi,neovim,py,lua&perline=8)](https://skillicons.dev)
 
-c,cpp,cmake,linux,arch,bash,py,neovim,lua,arduino,raspberrypi,postgres,git
 
 ## GitHub Stats
 
