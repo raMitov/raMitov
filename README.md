@@ -14,6 +14,7 @@ An idiot admires complexity, a genius admires simplicity, a physicist tries to m
 👥 **Followers:** 3  
 👤 **Following:** 5  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raMitov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raMitov&show_icons=true&theme=radical)
 
 ## Recent Activity
